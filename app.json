@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "AppAssignmentForUnipe",
+    "slug": "AppAssignmentForUnipe",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "AppAssignmentForUnipe"
+}
