@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "616619002065",
+    "project_id": "assignmentmain",
+    "storage_bucket": "assignmentmain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616619002065:android:39fc4ccb4620a7cde05df0",
+        "android_client_info": {
+          "package_name": "com.appassignmentforunipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616619002065-aaqo5mh0n8lbnk07klpjoluto7jtufl1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appassignmentforunipe",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "616619002065-kbskhnnn8ge5rbdhkjpcp8c564gau5tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy4bzu3K0uyxYoGiTQ35nt0t1UjuixmCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616619002065-kbskhnnn8ge5rbdhkjpcp8c564gau5tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
